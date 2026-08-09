@@ -1,3 +1,13 @@
+/*
+  Project: Ultrasonic Distance Meter
+  Description: Measures the distance to an object in real-time using an 
+               HC-SR04 Ultrasonic Sensor and displays the output in centimeters 
+               and inches on a 16x2 LCD screen using an Arduino Uno.
+  
+  Domain: Embedded Systems
+  Date: 09/08/2026
+	*/
+
 #include <LiquidCrystal.h> 
 LiquidCrystal lcd(1, 2, 4, 5, 6, 7); 
 const int trigPin = 9;
