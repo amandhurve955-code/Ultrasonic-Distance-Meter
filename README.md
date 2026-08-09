@@ -5,7 +5,8 @@ An Arduino Uno and HC-SR04 sensor measure object distance without physical conta
 **Company:** CODTECH IT SOLUTIONS  
 **ID:** CITS6427  
 **Domain:** EMBEDDED SYSTEM  
-**No. of Weeks:** 6 WEEKS  
+**No. of Weeks:** 6 WEEKS   
+**Internship Period:** 4 July 2026 - 15 August 2026
 
 ## Overview
 The **Ultrasonic Distance Meter** is an embedded system project that measures the distance to a target object without physical contact using an HC-SR04 ultrasonic sensor and displays live readings on a 16x2 LCD screen in both centimeters and inches.
